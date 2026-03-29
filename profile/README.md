@@ -2,8 +2,6 @@
 
 <p align="center">课程资源 · 论文模板 · 升学就业 · 开源共建</p>
 
----
-
 ## 📄 模板 Templates
 
 | 项目                                                                                         | 说明                                                                                                                                        |
@@ -31,8 +29,6 @@
 | [TJCS-Application](https://github.com/TJ-CSCCG/TJCS-Application) | 夏令营、预推免、申请季资料 |
 | [TJCS-Interview](https://github.com/TJ-CSCCG/TJCS-Interview)     | 面经镜像                   |
 | [TJCS-F2F](https://github.com/TJ-CSCCG/TJCS-F2F)                 | 同专业同学访谈录           |
-
----
 
 <p align="center">
   <sub>学生社区自发维护，非同济大学官方组织。欢迎 <a href="https://github.com/TJ-CSCCG/TJCS-Relay">参与贡献</a>。</sub>
