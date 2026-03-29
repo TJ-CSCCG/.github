@@ -1,10 +1,10 @@
-<h3 align="center">TJ-CSCCG | 同济大学计算机科学学生社区</h3>
+<h1 align="center">TJ-CSCCG | 同济大学计算机科学学生社区</h1>
 
 <p align="center">课程资源 · 论文模板 · 升学就业 · 开源共建</p>
 
 ---
 
-#### 📄 模板 Templates
+## 📄 模板 Templates
 
 | 项目                                                                                         | 说明                                                                                                                                        |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | [tongji-undergrad-thesis-typst](https://github.com/TJ-CSCCG/tongji-undergrad-thesis-typst)   | 毕业论文 Typst 模板                                                                                                                         |
 | [tongji-slides-typst](https://github.com/TJ-CSCCG/tongji-slides-typst)                       | 演示文稿 Typst 模板                                                                                                                         |
 
-#### 📚 课程 Courses
+## 📚 课程 Courses
 
 | 项目                                                           | 说明                         |
 | -------------------------------------------------------------- | ---------------------------- |
@@ -24,7 +24,7 @@
 | [TJCS-Book](https://github.com/TJ-CSCCG/TJCS-Book)             | 课内外书单与学习资料         |
 | [TJCS-Guide](https://github.com/TJ-CSCCG/TJCS-Guide)           | 计算机科学与技术系学习指南   |
 
-#### 🎓 升学与就业 Career
+## 🎓 升学与就业 Career
 
 | 项目                                                             | 说明                       |
 | ---------------------------------------------------------------- | -------------------------- |
